@@ -2,4 +2,5 @@ void main(void)
 {
     printf("abc\n"):
     return;
+    something wrong:
 }
